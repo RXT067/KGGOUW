@@ -4,7 +4,7 @@
 
 Krey's Gentoo Gaming Overlay Using Wrapper (RXT067/KGGOUW) as a workaround for non-root invokation of commands of RXT067/KGGO's ebuilds cause of bug #673888 (https://bugs.gentoo.org/673888) that is using RXT067/Scripts/KUWAC and asking for USER variable using PROPERTIES="interactive".
 
-*if this is not the most hugged up thing you ever saw on gentoo i don't know what to tell ya o.o*
+*if this is not the most hugged up thing you ever saw on gentoo that works like a charm i don't know what to tell ya o.o*
 
 ### Abstract
 OutOfTheBox Gaming on Gentoo using WINE with wineapps on platinum.
