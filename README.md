@@ -1,5 +1,8 @@
 # KGGOUW [KGẘ: (tlhlngan accent)]
-Krey's Gentoo Gaming Overlay Using Wrapper as a workaround for non-root invokation of commands.
+
+*Take me down to the workaround city where the wineapps are great and ebuilds not pretty,*
+
+Krey's Gentoo Gaming Overlay Using Wrapper (RXT067/KGGOUW) as a workaround for non-root invokation of commands of RXT067/KGGO's ebuilds cause of bug #673888 (https://bugs.gentoo.org/673888) that is using RXT067/Scripts/KUWAC and asking for USER variable using PROPERTIES="interactive".
 
 ## Abstract
 OutOfTheBox Gaming on Gentoo using WINE with wineapps on platinum.
