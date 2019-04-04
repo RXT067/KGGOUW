@@ -1,23 +1,11 @@
-## KGGOUW [KGẘ: (tlhlngan accent)] OR WORKAROUND CITY!
+## KGGOUW [KGẘ: (tlhlngan accent)]
 
-*Take me down to the workaround city where the wineapps are great and ebuilds not pretty!*
+*Take me down to the workaround city where the ebuilds are wierd and runtime not pretty, but it just fucking works!!*
 
-Krey's Gentoo Gaming Overlay Using Wrapper (RXT067/KGGOUW) as a workaround for non-root invokation of commands of RXT067/KGGO's ebuilds cause of bug #673888 (https://bugs.gentoo.org/673888) that is using RXT067/Scripts/KUWAC and asking for USER variable using PROPERTIES="interactive".
-
-*if this is not the most hugged up thing you ever saw on gentoo that works like a charm i don't know what to tell ya o.o*
+Krey's Gentoo Gaming Overlay Using Wrapper (RXT067/KGGOUW) as a workaround for non-root invokation of commands of RXT067/KGGO's ebuilds cause of bug #673888 (https://bugs.gentoo.org/673888) that is using RXT067/Scripts/KUWAC and asking for USER variable using `PROPERTIES="interactive"` if needed, because POL4 is not maintained anymore, POL5 is not usable atm (https://github.com/PhoenicisOrg/scripts/pull/797) and lutris sucks since it's issues are not resolved sufficiently (https://github.com/lutris/lutris/issues?utf8=%E2%9C%93&q=+author%3AKreyren+) while beeing blamed by crazy gay tannisroot for every single shit he can think of. 
 
 ### Abstract
-OutOfTheBox Gaming on Gentoo using WINE with wineapps on platinum.
+OutOfTheBox Gaming on Gentoo using WINE with wineapps on platinum including modding.
 
 ### Contribution
-Any help/suggestion/opinion is welcomed as long as it conform Gentoo's Code Of Conduct (https://wiki.gentoo.org/wiki/Project:Council/Code_of_conduct).
-
-### GDPR
-If you decide to share any personal information which is not required nor mandatory on RiXotStuio's repositories/project (if not stated otherwise), you are providing them by yourself only and on your own free will + you have full controll over a data that you provide if possible.
-
-We don't care about your personal data (meaning that your personal data aren't mandatory for us).
-
-Removing personal data on demand, gdpr@rixotstudio.cz
-
-### License 
-If you decide to contribute to RiXotStudio's project you agree with projects's license and you are revoking your ability to redo your contribution.
+WIP
